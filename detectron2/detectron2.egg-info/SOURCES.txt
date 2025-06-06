@@ -2,11 +2,11 @@ LICENSE
 README.md
 setup.cfg
 setup.py
-/Users/ihyeonbin/HumanIsCat/detectron2/detectron2/layers/csrc/vision.cpp
-/Users/ihyeonbin/HumanIsCat/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.cpp
-/Users/ihyeonbin/HumanIsCat/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.cpp
-/Users/ihyeonbin/HumanIsCat/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.cpp
-/Users/ihyeonbin/HumanIsCat/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.cpp
+/Users/ihyeonbin/Documents/GitHub/Blur_Person_faces/detectron2/detectron2/layers/csrc/vision.cpp
+/Users/ihyeonbin/Documents/GitHub/Blur_Person_faces/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.cpp
+/Users/ihyeonbin/Documents/GitHub/Blur_Person_faces/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.cpp
+/Users/ihyeonbin/Documents/GitHub/Blur_Person_faces/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.cpp
+/Users/ihyeonbin/Documents/GitHub/Blur_Person_faces/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.cpp
 detectron2/__init__.py
 detectron2.egg-info/PKG-INFO
 detectron2.egg-info/SOURCES.txt
